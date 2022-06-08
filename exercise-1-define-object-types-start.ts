@@ -37,4 +37,4 @@ const currencyData: Currency = {
 
 // ----
 
-export {};
+export { countryPopulation, countryData, currencyData };
