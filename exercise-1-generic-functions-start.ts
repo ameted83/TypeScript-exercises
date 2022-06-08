@@ -36,4 +36,4 @@ console.log(user.name);
 
 // ----
 
-export {};
+export { value1, value2 };
