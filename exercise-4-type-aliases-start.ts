@@ -15,4 +15,4 @@ const country3: Country = "China";
 
 // ----
 
-export {};
+export { country1, country2, country3 };
