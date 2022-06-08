@@ -35,4 +35,4 @@ const countryC: CountryWithPopulation = {
 
 // ----
 
-export {};
+export { countryA, countryB, countryC };
