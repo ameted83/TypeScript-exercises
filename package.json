@@ -2,7 +2,11 @@
   "name": "typescript-exercises",
   "version": "1.0.0",
   "description": "",
+<<<<<<< HEAD
   "main": "exercise-1-add-union-types-start.js",
+=======
+  "main": "index.js",
+>>>>>>> cd9d152a7e8576963f70970fd35767b33c6b931d
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/ameted83/TypeScript-exercises/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/ameted83/TypeScript-exercises#readme"
+=======
+  "homepage": "https://github.com/ameted83/TypeScript-exercises#readme",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+>>>>>>> cd9d152a7e8576963f70970fd35767b33c6b931d
 }
