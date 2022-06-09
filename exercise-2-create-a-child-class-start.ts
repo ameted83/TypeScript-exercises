@@ -4,8 +4,8 @@
 
 class Currency {
   public name: string;
-  private code: string;
-  private symbol: string;
+  public code: string;
+  public symbol: string;
   public banknotes: number[];
 
   constructor(name: string, code: string, symbol: string, banknotes: number[]) {
