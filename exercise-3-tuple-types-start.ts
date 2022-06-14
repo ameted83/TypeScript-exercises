@@ -17,9 +17,9 @@ const countryCurrency: CountryWithCurrency = ["Italy", "Euro", "EUR"];
 // Use the readonly modifier and the tuple type syntax: readonly [type, type]
 // This will cause a type error. Remove the code that now has a type error.
 
-const countryLanguage = ["Greece", "Greek"];
+const countryLanguage: readonly [string, string] = ["Greece", "Greek"];
 
-countryLanguage.reverse();
+// countryLanguage.reverse();
 
 console.log(countryLanguage);
 
