@@ -8,7 +8,7 @@
 // Hint: Use the string values in the `currency` properties as the enum members.
 
 enum Currency {
-  Euro = 1,
+  Euro,
   Dollar,
 }
 
